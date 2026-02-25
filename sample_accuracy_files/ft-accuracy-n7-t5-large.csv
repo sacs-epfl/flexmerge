@@ -1,0 +1,2 @@
+Method,Average,paws,qasc,quartz,story_cloze,wiki_qa,winogrande,wsc
+Individual,0.867,0.945,0.98,0.876,0.915,0.958,0.758,0.639

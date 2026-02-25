@@ -1,0 +1,6 @@
+filename,url,task_name,model_name
+beit3_base_patch16_480_vqa.pth,https://github.com/addf400/files/releases/download/beit3/beit3_base_patch16_480_vqa.pth,vqav2,beit3_base_patch16_480
+beit3_base_patch16_480_coco_captioning.pth,https://github.com/addf400/files/releases/download/beit3/beit3_base_patch16_480_coco_captioning.pth,coco_captioning,beit3_base_patch16_480
+beit3_base_patch16_384_coco_retrieval.pth,https://github.com/addf400/files/releases/download/beit3/beit3_base_patch16_384_coco_retrieval.pth,coco_retrieval,beit3_base_patch16_384
+beit3_base_patch16_224_nlvr2.pth,https://github.com/addf400/files/releases/download/beit3/beit3_base_patch16_224_nlvr2.pth,nlvr2,beit3_base_patch16_224
+beit3_base_patch16_224_in1k.pth,https://github.com/addf400/files/releases/download/beit3/beit3_base_patch16_224_in1k.pth,imagenet,beit3_base_patch16_224

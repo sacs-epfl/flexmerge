@@ -1,0 +1,2 @@
+finetuned_checkpoints/*.pth
+finetuned_checkpoints/beit3.spm
